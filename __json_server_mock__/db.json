@@ -1,3 +1,54 @@
 {
-  "users": []
+  "users": [
+    { "id": 1, "name": "Luka" },
+    { "id": 2, "name": "Jack" },
+    { "id": 3, "name": "Jame" },
+    { "id": 4, "name": "Jackson" },
+    { "id": 5, "name": "Paul" },
+    { "id": 6, "name": "kawhi" }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "task 1",
+      "personId": 1,
+      "group": "group-1",
+      "created": 1604989757139
+    },
+    {
+      "id": 2,
+      "name": "task 2",
+      "personId": 2,
+      "group": "group-2",
+      "created": 1604989757140
+    },
+    {
+      "id": 3,
+      "name": "task 3",
+      "personId": 3,
+      "group": "group-3",
+      "created": 1604989757142
+    },
+    {
+      "id": 4,
+      "name": "task 4",
+      "personId": 4,
+      "group": "group-3",
+      "created": 1604989757142
+    },
+    {
+      "id": 5,
+      "name": "task 5",
+      "personId": 5,
+      "group": "group-3",
+      "created": 1604989757142
+    },
+    {
+      "id": 6,
+      "name": "task 6",
+      "personId": 6,
+      "group": "group-3",
+      "created": 1604989757142
+    }
+  ]
 }
